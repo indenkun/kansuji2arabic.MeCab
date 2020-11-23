@@ -20,7 +20,7 @@ knitr::opts_chunk$set(
 
 `{kansuji2arabic.MeCab}`は文字列中の漢数字をアラビア数字に変換するための関数を含むパッケージで、`{zipangu}`の`kansuji2arbic_str()`を`MeCab`を使用し形態素解析を行った品詞細分類上で数と判定された漢数字のみをアラビア数字に変換するように改変したものです。
 
-処理に`MeCab`を使用しているので、`MeCab`が使用する辞書によって結果（変換精度)は異なります
+処理に`MeCab`を使用しているので、`MeCab`が使用する辞書によって結果（変換精度)は異なります。
 
 ## Imports
 
@@ -59,7 +59,6 @@ remotes::install_github("indenku/kansuji2arabic.MeCab")
 
 ```{r example}
 library(kansuji2arabic.MeCab)
-## basic example code
 ```
 
 `{kansuji2arabc.MeCab}`は`kansuji2arabic_str_MeCab()`のみを含みます。
