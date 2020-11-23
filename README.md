@@ -18,7 +18,7 @@ Rパッケージ以外の必要ソフトウェア
   - `MeCab`
 
 `MeCab`については[MeCab: Yet Another Part-of-Speech and Morphological
-Analyzer](https://taku910.github.io/mecab/)に詳細がああります。
+Analyzer](https://taku910.github.io/mecab/)に詳細があります。
 
 Rパッケージ
 
