@@ -1,0 +1,19 @@
+Package: kansuji2arabic.MeCab
+Type: Package
+Title: Convert kansuji to Arabic numerals with MeCab
+Version: 0.0.0.1
+Author: indenkun
+Maintainer: indenkun <blog@indenkun.hatenablog.com>
+Description: Convert kansuji to Arabic numerals with MeCab.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports: 
+    RMeCab,
+    stringr,
+    zipangu,
+    arabic2kansuji,
+    purrr,
+    stats,
+    utils
