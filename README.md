@@ -42,7 +42,7 @@ RMeCab](http://rmecab.jp/wiki/index.php?RMeCab)に詳細があります。
 ## Installation
 
 ``` r
-remotes::install_github("indenku/kansuji2arabic.MeCab")
+remotes::install_github("indenkun/kansuji2arabic.MeCab")
 ```
 
 でインストールできます。
