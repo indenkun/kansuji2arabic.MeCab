@@ -4,7 +4,6 @@
 # kansuji2arabic.MeCab
 
 <!-- badges: start -->
-
 <!-- badges: end -->
 
 `{kansuji2arabic.MeCab}`は文字列中の漢数字をアラビア数字に変換するための関数を含むパッケージで、`{zipangu}`の`kansuji2arbic_str()`を`MeCab`を使用し形態素解析を行った品詞細分類上で数と判定された漢数字のみをアラビア数字に変換するように改変したものです。
@@ -15,26 +14,22 @@
 
 Rパッケージ以外の必要ソフトウェア
 
-  - `MeCab`
+-   `MeCab`
 
 `MeCab`については[MeCab: Yet Another Part-of-Speech and Morphological
 Analyzer](https://taku910.github.io/mecab/)に詳細があります。
 
 Rパッケージ
 
-  - `{RMeCab}`
-  - `{stringr}`
-  - `{zipangu}`
-  - `{arabic2kansuji}`
-  - `{purrr}`
-  - `{stats}`
-  - `{utils}`
+-   `{RMeCab}`
+-   `{stringr}`
+-   `{zipangu}`
+-   `{arabic2kansuji}`
+-   `{purrr}`
+-   `{stats}`
+-   `{utils}`
 
-現在、`{zipangu}`はgithubからインストールできる開発版[uribo/zipangu](https://github.com/uribo/zipangu)に依存しています。
-
-`{RMeCab}`と`{arabic2kansuji}`はCRANに登録されていないパッケージです。
-
-`{arabic2kansuji}`は[indenkun/arabic2kansuji](https://github.com/indenkun/arabic2kansuji)に詳細があります。
+`{RMeCab}`はCRANに登録されていないパッケージです。
 
 `{RMeCab}`は[アールメカブ -
 RMeCab](http://rmecab.jp/wiki/index.php?RMeCab)に詳細があります。

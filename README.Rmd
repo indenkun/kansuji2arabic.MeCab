@@ -40,11 +40,7 @@ Rパッケージ
 * `{stats}`
 * `{utils}`
 
-現在、`{zipangu}`はgithubからインストールできる開発版[uribo/zipangu](https://github.com/uribo/zipangu)に依存しています。
-
-`{RMeCab}`と`{arabic2kansuji}`はCRANに登録されていないパッケージです。
-
-`{arabic2kansuji}`は[indenkun/arabic2kansuji](https://github.com/indenkun/arabic2kansuji)に詳細があります。
+`{RMeCab}`はCRANに登録されていないパッケージです。
 
 `{RMeCab}`は[アールメカブ - RMeCab](http://rmecab.jp/wiki/index.php?RMeCab)に詳細があります。
 
